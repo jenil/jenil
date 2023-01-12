@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jenil
+👋 Hi, I’m @jenil
 
 <!---
 jenil/jenil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
